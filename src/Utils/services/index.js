@@ -1,0 +1,1 @@
+import * as Wallets from './wallets';

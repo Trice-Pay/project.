@@ -1,0 +1,24 @@
+export const needsConstants = {
+  // GET_NEEDS: 'NEEDS/GET_NEEDS',
+  // GET_CATEGORIES: 'NEEDS/GET_CATEGORIES',
+  // POST_NEEDS: 'NEEDS/POST_NEEDS',
+  SHOW_LOADER: 'NEEDS/SHOW_LOADER',
+  GET_PROFILE: 'USERS/GET_PROFILE',
+  PUSH_NOTIFICATION_STATUS: 'USERS/PUSH_NOTIFICATION_STATUS',
+  SMS_NOTIFICATION_STATUS: 'USERS/SMS_NOTIFICATION_STATUS',
+  PROMOTIONAL_NOTIFICATION_STATUS: 'PROMOTIONAL_NOTIFICATION_STATUS',
+  UPLOAD_IMAGE: 'USERS/UPLOAD_IMAGE',
+  GENERATE_2FA: 'USERS/GENERATE_2FA',
+  UPDATE_2FA: 'USERS/UPDATE_2FA',
+  VERIFY_2FA: 'USERS/VERIFY_2FA',
+  VERIFY_USER_2FA: 'USERS/VERIFY_USER_2FA',
+  Generate_Otp_For_Profile: 'USERS/Generate_Otp_For_Profile',
+  Exchange_Crypto_Currencies: 'USERS/Exchange_Crypto_Currencies',
+  Exchange_Transaction: 'USERS/Exchange_Transaction',
+
+  //wallet 
+  Add_Wallet: 'USERS/Add_Wallet',
+  Exchange_Covalent_Transactions:'USERS/Exchange_Covalent_Transactions',
+
+ 
+}
